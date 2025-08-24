@@ -1,0 +1,34 @@
+{
+    "User registered successfully": "تم تسجيل المستخدم بنجاح",
+    "User account verified successfully": "تم تفعيل حساب المستخدم بنجاح",
+    "Otp updated successfully": "تم تحديث رمز التحقق بنجاح",
+    "Phone not registered": "رقم الهاتف غير مسجل",
+    "The user account has already been verified": "تم تفعيل الحساب مسبقًا",
+    "Wrong OTP code": "رمز التحقق غير صحيح",
+    "The OTP code has expired": "انتهت صلاحية رمز التحقق",
+    "The Phone is Verify": "رقم الهاتف تم تفعيله بالفعل",
+    "Otp not found": "رمز التحقق غير موجود أو منتهي الصلاحية",
+    "These credentials do not match our records.": "بيانات الاعتماد هذه غير مطابقة لسجلاتنا",
+    "The user account has not been verified yet": "لم يتم تفعيل حساب المستخدم بعد",
+    "Account deleted successfully": "تم حذف الحساب بنجاح",
+     "View profile": "عرض الملف الشخصي",
+    "The user profile has been updated successfully": "تم تحديث الملف الشخصي للمستخدم بنجاح",
+    "Code sent successfully": "تم إرسال رمز التحقق بنجاح",
+    "Code successfully": "تم التحقق من الرمز بنجاح",
+    "The password has been reset successfully": "تم إعادة تعيين كلمة المرور بنجاح",
+    "The password has been changed successfully": "تم تغيير كلمة المرور بنجاح",
+    "logout": "تم تسجيل الخروج بنجاح",
+    "Login successfully": "تم تسجيل الدخول بنجاح",
+    "The user account is not active": "حساب المستخدم غير مفعل",
+    "Withdrawal request submitted successfully": "تم تقديم طلب التسوية بنجاح",
+    "A settlement request has already been sent": "لقد تم بالفعل إرسال طلب التسوية",
+    "Refund request can only be made within 14 days of order creation.": "يمكن تقديم طلب التسوية فقط خلال 14 يومًا من إنشاء الطلب.",
+    "Refund Request created successfully": "تم إنشاء طلب التسوية بنجاح",
+    "The request is pending":"الطلب معلق",
+    "This product is already in your cart.":"هذا المنتج موجود بالفعل في سلة التسوق"
+
+
+
+
+
+}
